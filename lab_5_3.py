@@ -92,6 +92,7 @@ def main():
 	student1.addYear()
 	student1.setGPA()
 	student1.addClass()
+	print("Hell")
 
 
 if __name__ == '__main__':
